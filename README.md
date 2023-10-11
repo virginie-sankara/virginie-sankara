@@ -1,6 +1,6 @@
 
 
-#### Bonjour/Hi, I'm V
+#### 🖖🏾 Bonjour/Hi, I'm V
 
 Full Stack Web Developer with an expertise in digital media and passion for the sociological impact of technology. I build web apps and bring a keen awareness of the complex dynamics between society and technological advancements, as well as the technical skills to conceive and develop innovative, conscious, and sustainable applications. 
 
