@@ -27,7 +27,7 @@ accessibility features, open-source.
 ### Featured projects
 
 
-#### Vscodes.co 
+#### <a href="https://www.vscodes.co/">Vscodes.co</a>
 Full Stack portfolio with 3D interactions integrated using Three.js.
 
 Three.js - Node.js - React.js - JSX - HTML/CSS
