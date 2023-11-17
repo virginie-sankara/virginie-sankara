@@ -13,7 +13,7 @@ I build web apps and bring a keen awareness of the complex dynamics between soci
 analyzing the influence of technologies on human behavior.
 
 #### 🚀 Ambitions 
-create with inclusive mindset, build accessible features for VR/AR apps, consciously benefit from Ai.
+create with inclusive mindset, build accessible features for web, mobile and VR/AR apps, consciously benefit from Ai.
 
 #### 🔭 I’m looking to collaborate on 
 accessibility features, open-source.
