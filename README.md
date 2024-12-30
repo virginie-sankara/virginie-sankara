@@ -1,7 +1,7 @@
 
 
 #### 🖖🏾 Bonjour/Hi, I'm Vi
-Front-end focused Full Stack Web Developer with an expertise in digital media and a passion for the sociological impacts of technology. 
+Frontend-Focused Full Stack Web Developer with an expertise in digital media and a passion for the sociological impacts of technology. 
 
 I build web apps and bring a keen awareness of the complex dynamics between society and technological advancements, as well as the technical skills to conceive and develop innovative, conscious, and sustainable applications. 
 
