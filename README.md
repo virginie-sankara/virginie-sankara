@@ -13,10 +13,12 @@ I build web apps and bring a keen awareness of the complex dynamics between soci
 analyzing the influence of technologies on human behavior.
 
 #### 🚀 Ambitions 
-create with inclusive mindset, build accessible features for web, mobile and VR/AR apps, consciously benefit from Ai.
+- create with inclusive mindset
+- build accessible features for web, mobile and VR/AR apps
+- consciously benefit from Ai #techforgood
 
 #### 🔭 I’m looking to collaborate on 
-accessibility features, open-source.
+accessibility features, open-source and challenging projects.
 
 #### 📱 Favorite app
 <a href="https://www.bemyeyes.com/">be my eyes</a>, a mobile platform that uses technology to connect people with visual disabilities with sighted volunteers who can help with day-to-day tasks.
