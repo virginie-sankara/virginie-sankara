@@ -12,16 +12,17 @@ I build web apps and bring a keen awareness of the complex dynamics between soci
 #### 🤓 I geek about
 analyzing the influence of technologies on human behavior.
 
+#### 📱 Favorite app
+<a href="https://www.bemyeyes.com/">be my eyes</a>, a mobile platform that uses technology to connect people with visual disabilities with sighted volunteers who can help with day-to-day tasks.
+
 #### 🚀 Ambitions 
 - create with inclusive mindset
 - build accessible features for web, mobile and VR/AR apps
 - consciously benefit from Ai #techforgood
 
 #### 🔭 I’m looking to collaborate on 
-accessibility features, open-source and challenging projects.
+accessibility features and projects.
 
-#### 📱 Favorite app
-<a href="https://www.bemyeyes.com/">be my eyes</a>, a mobile platform that uses technology to connect people with visual disabilities with sighted volunteers who can help with day-to-day tasks.
 
 <!--
 **virginie-sankara/virginie-sankara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
