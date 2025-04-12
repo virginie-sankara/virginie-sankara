@@ -28,7 +28,9 @@ My focus: **efficient, scalable, and sustainable** digital solutions. the kind t
 
 
 ---
-##   <strong >🛠✨ Tech Stack</strong> 
+## 🛠 Stack 
+aka tools I've made peace with
+
 
 
 <p align="left" style="line-height: 2;">
