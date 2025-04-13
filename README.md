@@ -122,8 +122,8 @@ WAI and WCAG
 #### 📱 Favorite app  
 <a href="https://www.bemyeyes.com/">Be My Eyes</a> 
 
-#### 🔭 Let’s collaborate if  
-You're building accessible tools, thinking critically about your users, or just tired of reinventing the UI wheel without checking if it’s screen-reader friendly.
+#### 🤝 Let’s collaborate  
+If you're building accessible tools, thinking critically about your users, or just tired of reinventing the UI wheel without checking if it’s screen-reader friendly.
 
 #### 👀 View more on
 
