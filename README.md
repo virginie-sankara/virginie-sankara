@@ -1,6 +1,6 @@
 
-# 🖖🏾 Bonjour/Hi, I’m V  
-### Frontend-focused dev · Digital strategist · A11Y advocate
+## 🖖🏾 Bonjour/Hi, I’m V  
+### Frontend-focused Dev · Digital Strategist · A11Y Advocate
 
 #### What I actually do ?
 <details>
