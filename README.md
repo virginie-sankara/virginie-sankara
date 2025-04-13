@@ -1,36 +1,37 @@
 
 # 🖖🏾 Bonjour/Hi, I’m V  
-### A11Y-Focused Frontend Dev & Digital Strategist
+### Frontend-focused dev · Digital strategist · A11Y advocate
 
-I develop web apps that balance **business and human needs**.  
-My focus: **efficient, scalable, and sustainable** digital solutions. the kind that respect people *and* budgets.
-
-### what I actually do ?
+#### What I actually do ?
 <details>
-<summary>click to reveal </strong></summary>
+<summary>click to reveal</strong></summary>
+
+I develop solutions that balance **business and human needs**, the kind that respect people *and* budgets.
 
 - **Frontend-first full stack development**
-(React, Vue, Node.js, MongoDB, etc. — yes, I use Tailwind. no, I don’t want to argue about it.)
+React, Vue, Vite, Node.js... yes, I use Tailwind. no, I don’t want to argue about it.
 
-- **Digital Accessibility** 
- (because your users shouldn’t need perfect vision, motor skills, or a miracle to check out.)
+- **Digital accessibility** 
+because users shouldn’t need perfect vision, motor skills, or a miracle to check out.
 
-- **Digital Strategy & Communication** (the systems we build shape behavior. I try to ensure they don’t shape it badly.)
+- **Digital strategy & communication** 
+tech shapes behavior, I try to ensure it doesn’t shape it badly.
 
   </details>
+  
+--- 
 
-### priorities
+## <p align="center">🎯  Approach</p>
 
-- 🧠 **Cognitive clarity** over visual overload  
-- 💸 **Business ROI** and **Human ROI** — not one or the other  
+- 🧠 **Cognitive clarity** visual overload  
+- 💸 **Business ROI** + **human ROI** not one or the other  
 - 🌱 **Sustainable builds** that age better than most JS frameworks  
 - 🧪 **Critical thinking**, not just clean code
 
 
 ---
-## 🛠 Stack 
+## 🛠  Tech Stack
 aka tools I've made peace with
-
 
 
 <p align="left" style="line-height: 2;">
@@ -107,7 +108,7 @@ aka tools I've made peace with
 ---
 
 
-## Quick intro
+## <p align="center">💬  Quick intro</p>
 
 #### 🤓 I geek out on  
 Analyzing how tech shapes society norms and human behaviors
@@ -119,9 +120,9 @@ Interfaces that talk back, city public data-powered apps, a11y customizations...
 WAI and WCAG
 
 #### 📱 Favorite app  
-<a href="https://www.bemyeyes.com/">Be My Eyes</a> — tech that gives a damn.
+<a href="https://www.bemyeyes.com/">Be My Eyes</a> 
 
-#### 🔭 Let’s collaborate if...  
+#### 🔭 Let’s collaborate if  
 You're building accessible tools, thinking critically about your users, or just tired of reinventing the UI wheel without checking if it’s screen-reader friendly.
 
 #### 👀 View more on
