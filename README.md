@@ -23,10 +23,10 @@ tech shapes behavior, I try to ensure it doesn’t shape it badly.
 
 ## <p align="center">🎯  Approach</p>
 
-- 🧠 **Cognitive clarity** visual overload  
+- 🧠 **Cognitive clarity** over visual overload  
 - 💸 **Business ROI** + **human ROI** not one or the other  
 - 🌱 **Sustainable builds** that age better than most JS frameworks  
-- 🧪 **Critical thinking**, not just clean code
+- 🧪 **Critical thinking** not just clean code
 
 
 ---
